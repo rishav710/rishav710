@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishav kumar
-- 👀 I’m interested in web devlopement & Ethical hacking
+- 👀 I’m interested in frontend developer & Machine learning Engineer
 - 🌱 I’m currently learning Data structure algorithm
 - 💞️ I’m looking to collaborate some coders who understanding my queries
 - 📫 You can reach me at instagram- anonymous.jex
